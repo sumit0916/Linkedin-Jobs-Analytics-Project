@@ -1,9 +1,12 @@
-# Get the real time statistics of jobs available on Linkedin across different sectors and spanning the whole Indian landscape.
+# Get the real time statistics of jobs available on Linkedin across different sectors and spanning the whole Indian landscape and construct a job aggregator having the functionality to browse jobs for different skills.
 # Steps involved - 
 ## 1. Linkedin automation - Python code to automate login process on linkedin using selenium
 ## 2. Data scraping -  Scraping the jobs data of different commpanies on linkedin using beautifulsoup library
 ## 3. Data analysis - Analysing the raw data and drawing useful insights through queries on MS SQL
 ## 4. Data visualization - Creating a dashboard on visualization tools like Tabeau or Excel using the insights generated 
+
+# Link to job aggregator API is mentioned below:
+https://jobanalytics.netlify.app/
 
 # A snapshot of the Tableau dashboard is mentioned below:
 
